@@ -1,0 +1,2 @@
+# namagmailkal
+create gmail
